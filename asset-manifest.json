@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multwitches/static/css/main.3aba6e82.css",
+    "main.js": "/multwitches/static/js/main.5a405314.js",
+    "static/js/787.d3befce1.chunk.js": "/multwitches/static/js/787.d3befce1.chunk.js",
+    "index.html": "/multwitches/index.html",
+    "main.3aba6e82.css.map": "/multwitches/static/css/main.3aba6e82.css.map",
+    "main.5a405314.js.map": "/multwitches/static/js/main.5a405314.js.map",
+    "787.d3befce1.chunk.js.map": "/multwitches/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aba6e82.css",
+    "static/js/main.5a405314.js"
+  ]
+}

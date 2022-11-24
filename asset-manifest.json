@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/multwitches/static/css/main.c30abbd1.css",
-    "main.js": "/multwitches/static/js/main.85f733ad.js",
+    "main.css": "/multwitches/static/css/main.413e1640.css",
+    "main.js": "/multwitches/static/js/main.cfaecaf7.js",
     "static/js/787.d3befce1.chunk.js": "/multwitches/static/js/787.d3befce1.chunk.js",
     "index.html": "/multwitches/index.html",
-    "main.c30abbd1.css.map": "/multwitches/static/css/main.c30abbd1.css.map",
-    "main.85f733ad.js.map": "/multwitches/static/js/main.85f733ad.js.map",
+    "main.413e1640.css.map": "/multwitches/static/css/main.413e1640.css.map",
+    "main.cfaecaf7.js.map": "/multwitches/static/js/main.cfaecaf7.js.map",
     "787.d3befce1.chunk.js.map": "/multwitches/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c30abbd1.css",
-    "static/js/main.85f733ad.js"
+    "static/css/main.413e1640.css",
+    "static/js/main.cfaecaf7.js"
   ]
 }
